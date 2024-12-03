@@ -1,0 +1,8 @@
+Flask==2.1.1
+Flask-CORS==3.0.10
+docx==0.2.4
+PyPDF2==2.1.0
+sentence-transformers==2.2.0
+mysql-connector-python==8.0.26
+transformers==4.10.3
+torch==1.9.1
